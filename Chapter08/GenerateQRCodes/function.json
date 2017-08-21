@@ -1,0 +1,10 @@
+{
+  "bindings": [
+    {
+      "name": "qrCodeContext",
+      "type": "orchestrationTrigger",
+      "direction": "in"
+    }
+  ],
+  "disabled": false
+}
