@@ -29,7 +29,7 @@
 
         public class UserProfile : TableEntity
         {
-            public UserProfile(string lastname, string firstname,
+            public UserProfile(string firstname, string lastname,
              string profilePicUrl)
             {
                 this.PartitionKey = "p1";
