@@ -5,5 +5,5 @@
       "type": "activityTrigger",
       "direction": "in"
     }
-  ],
+  ]
 }
