@@ -21,7 +21,7 @@
             string lastname=inputJson.lastname;
             string profilePicUrl = inputJson.ProfilePicUrl;
              string email = inputJson.email;
-             string emailContent ;
+             string emailContent;
 
             objUserProfileQueueItem = profilePicUrl;
             UserProfile objUserProfile = new UserProfile(firstname, 
