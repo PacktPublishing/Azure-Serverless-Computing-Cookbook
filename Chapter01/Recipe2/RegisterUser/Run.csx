@@ -23,7 +23,7 @@
 
         public class UserProfile : TableEntity
         {
-            public UserProfile(string lastName, string firstName)
+            public UserProfile(string firstName, string lastName)
             {
                 this.PartitionKey = "p1";
                 this.RowKey = Guid.NewGuid().ToString();;
