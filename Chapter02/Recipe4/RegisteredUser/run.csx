@@ -6,11 +6,10 @@
         using Newtonsoft.Json;
         public static void Run(HttpRequestMessage req, 
                                TraceWriter log,
-                               CloudTable         
-                               objUserProfileTable,
-                               out string 
-                               objUserProfileQueueItem,
-                               out Mail message, TextWriter outputBlob,
+                               CloudTable objUserProfileTable,
+                               out string objUserProfileQueueItem,
+                               out Mail message, 
+                               TextWriter outputBlob,
                                IBinder binder
                                )
         {
