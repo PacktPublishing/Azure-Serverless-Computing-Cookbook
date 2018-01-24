@@ -66,7 +66,7 @@ Attachment objAttachment = new Attachment();
 
         public class UserProfile : TableEntity
         {
-            public UserProfile(string lastname, string firstname,
+            public UserProfile(string firstname, string lastname,
              string profilePicUrl,string email)
             {
                 this.PartitionKey = "p1";
