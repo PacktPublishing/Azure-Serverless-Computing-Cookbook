@@ -1,7 +1,7 @@
 {
   "bindings": [
     {
-      "name": "getAllCustomersContext",
+      "name": "name",
       "type": "activityTrigger",
       "direction": "in"
     }
