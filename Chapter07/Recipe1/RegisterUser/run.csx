@@ -63,13 +63,13 @@
         }
        public class UserProfile : TableEntity
         {
-           public UserProfile(string lastName, string firstName,string             
+           public UserProfile(string firstname, string lastname,string             
             profilePicUrl,string email)
            {
               this.PartitionKey = "p1";
               this.RowKey = Guid.NewGuid().ToString();;
-              this.FirstName = firstName; 
-              this.LastName = lastName; 
+              this.FirstName = firstname; 
+              this.LastName = lastname; 
               this.ProfilePicUrl = profilePicUrl; 
               this.Email = email;
            }
