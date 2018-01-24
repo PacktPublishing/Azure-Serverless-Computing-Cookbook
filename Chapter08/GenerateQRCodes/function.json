@@ -1,7 +1,7 @@
 {
   "bindings": [
     {
-      "name": "qrCodeContext",
+      "name": "context",
       "type": "orchestrationTrigger",
       "direction": "in"
     }
