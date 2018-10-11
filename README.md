@@ -39,7 +39,7 @@ private static Dictionary<ImageSize, Tuple<int, int>> imageDimensionsTable = new
 **Following is what you need for this book:**
 If you are a Cloud administrator, architect, or developer who wants to build scalable systems and deploy serverless applications with Azure functions, then this book is for you. Prior knowledge and hands-on experience with core services of Microsoft Azure is required.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-10).
 
 ### Software and Hardware List
 
