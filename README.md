@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B12279?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # Azure Serverless Computing Cookbook
 
 <a href="https://www.packtpub.com/virtualization-and-cloud/azure-serverless-computing-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781788390828"><img src="https://www.packtpub.com/sites/default/files/9781788390828.png" alt="Azure Serverless Computing Cookbook" height="256px" align="right"></a>
